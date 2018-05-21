@@ -1,2 +1,2 @@
 # CancerPrediction
-Our Neural Network Course Project 2 was to build a system to predict early stage Lung Cancer using Machine Learning. My part was to pre-process cancer data.
+Developed early stage Lung Cancer Prediction model as Neural Network Course Project. Preprocessed the data using Python \& run different Machine learning algorithms.
